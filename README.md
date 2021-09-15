@@ -2,7 +2,7 @@
 - 👀 I’m interested in Travel,technologies
 - 🌱 I’m currently learning Recruitments
 - 💞️ I’m looking to collaborate on technology minds
-- 📫 How to reach me ...
+- 📫 How to reach me rajesh44134@gmail.com
 
 <!---
 RajeshYenduri/RajeshYenduri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
